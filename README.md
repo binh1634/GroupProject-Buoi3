@@ -1,4 +1,1 @@
-
-Dòng này do Binh sửa
-Dòng này do Long sửa
-
+Nội dung đúng của README
